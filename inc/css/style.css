@@ -1,0 +1,119 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, "Helvetica", sans-serif;
+}
+/*body::-webkit-scrollbar {*/
+/*    display: none;*/
+/*}*/
+header {
+    background-image: url("../img/workplace-1245776_1920.jpg");
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 656px;
+    width: 100%;
+    position: relative;
+}
+header .container-custom {
+    width: 90%;
+    margin: 0 auto;
+}
+header .container-custom .sub-container {
+    position: relative;
+}
+header .container-custom .sub-container .boxlogo h1 {
+    background-color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    padding: 100px 40px;
+    margin-top: 10%;
+    position: absolute;
+    left: 30%;
+    right: 30%;
+    color: white;
+    font-size: 2em;
+}
+header .container-custom #nav-main {
+    background-color: rgba(0, 0, 0, 0.85);
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    left: 0;
+    height: 60px;
+}
+header .container-custom #nav-main ul {
+    margin-right: 5%;
+    float: right;
+    margin-top: 10px;
+    line-height: 0.5px;
+}
+header .container-custom #nav-main ul li {
+    list-style: none;
+    float: left;
+    padding: 22px 30px 25px 30px;
+    color: white;
+}
+header .container-custom #nav-main ul li:hover {
+    border-bottom: 1px solid white;
+    background-color: rgba(0, 0, 0, 1);
+}
+header .container-custom #nav-main ul a {
+    text-decoration: none;
+}
+header #logotipo {
+    position: absolute;
+    left: 5%;
+}
+header #logotipo span h4 {
+    color: white;
+    padding: 15px 10px 10px 0;
+}
+
+/* ==== Init Section ==== */
+section #section-part-1 .bloco-content h1 {
+    padding-top: 50px;
+    padding-bottom: 15px;
+    text-align: center;
+    font-weight: bold;
+}
+section #section-part-1 .bloco-content p {
+    text-align: center;
+    margin-right: 100px;
+    margin-left: 100px;
+    font-size: 1.1em;
+    padding-bottom: 50px;
+}
+section #section-part-2 {
+    background-color: rgba(0, 0, 0, 0.9);
+    width: 100%;
+    padding: 20px;
+}
+section #section-part-2 .box-img-cell .img-cell {
+    width: 400px;
+    height: 700px;
+    padding: 30px;
+}
+section #section-part-2 .app-content {
+    padding: 60px;
+    color: white;
+}
+section #section-part-2 .app-content h1 {
+    text-align: center;
+    padding-bottom: 10px;
+}
+section #section-part-2 .app-content .app-content-pgs p {
+    text-align: justify;
+}
+section #section-part-2 .app-content .app-content-pgs a.btn-app {
+    margin-top: 10px;
+    background-color: aqua;
+    color: black;
+    font-weight: bold;
+    width: 100%;
+}
+section #section-part-2 .app-content .app-content-pgs a.btn-app:hover {
+    transition: 2s;
+    background-color: #FE642E;
+    color: white;
+}
