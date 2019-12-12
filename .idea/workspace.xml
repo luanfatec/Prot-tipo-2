@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c3db6e3-538b-4812-a566-b483fcf307d5" name="Default Changelist" comment="" />
+    <list default="true" id="4c3db6e3-538b-4812-a566-b483fcf307d5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/inc/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/inc/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +18,9 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Uj90W23MTcYXFXFnNXbPQ1e8j0" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -20,6 +29,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="ignore.virus.scanning.warn.message" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -57,6 +67,7 @@
       <workItem from="1575910992340" duration="1726000" />
       <workItem from="1576061775337" duration="804000" />
       <workItem from="1576062596928" duration="6627000" />
+      <workItem from="1576154544994" duration="5376000" />
     </task>
     <servers />
   </component>
@@ -68,10 +79,15 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="36" y="11" width="1292" height="716" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1576062703453" />
-    <state x="359" y="197" key="com.intellij.ide.util.TipDialog" timestamp="1576062597337">
+    <state x="359" y="197" key="com.intellij.ide.util.TipDialog" timestamp="1576154629666">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="359" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1575911012930" />
     <state x="359" y="197" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1576062597337" />
+    <state x="359" y="197" key="com.intellij.ide.util.TipDialog/1366.-122.1280.1024/0.0.1366.768@0.0.1366.768" timestamp="1576154629666" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1576157049698">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/1366.-122.1280.1024/0.0.1366.768@0.0.1366.768" timestamp="1576157049698" />
   </component>
 </project>

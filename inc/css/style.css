@@ -12,7 +12,7 @@ header {
     background-position: left bottom;
     background-size: cover;
     background-attachment: fixed;
-    height: 656px;
+    height: 695px;
     width: 100%;
     position: relative;
 }
@@ -27,7 +27,7 @@ header .container-custom .sub-container .boxlogo h1 {
     background-color: rgba(0, 0, 0, 0.5);
     text-align: center;
     padding: 100px 40px;
-    margin-top: 10%;
+    margin-top: 14%;
     position: absolute;
     left: 30%;
     right: 30%;
@@ -54,7 +54,7 @@ header .container-custom #nav-main ul li {
     padding: 22px 30px 25px 30px;
     color: white;
 }
-header .container-custom #nav-main ul li:hover {
+header .container-custom #nav-main ul li:hover{
     border-bottom: 1px solid white;
     background-color: rgba(0, 0, 0, 1);
 }
@@ -76,6 +76,7 @@ section #section-part-1 .bloco-content h1 {
     padding-bottom: 15px;
     text-align: center;
     font-weight: bold;
+    color: #455c83;
 }
 section #section-part-1 .bloco-content p {
     text-align: center;
@@ -116,4 +117,48 @@ section #section-part-2 .app-content .app-content-pgs a.btn-app:hover {
     transition: 2s;
     background-color: #FE642E;
     color: white;
+}
+section #section-part-3 .sec3-content .sec3-contitle {
+    padding: 30px;
+}
+section #section-part-3 .sec3-content .sec3-contitle h1 {
+    padding-top: 50px;
+    padding-bottom: 15px;
+    text-align: center;
+    font-weight: bold;
+    color: #455c83;
+}
+section #section-part-3 .sec3-content .sec3-contitle p {
+    font-size: 1em;
+    color: #7d8da8;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 30px;
+}
+section #section-part-3 .sec3-content .sec3-conheader .box {
+    padding: 20px;
+}
+section #section-part-3 .sec3-content .sec3-conheader .box a {
+    color: #455c83;
+    text-decoration: none;
+}
+section #section-part-3 .sec3-content .sec3-conheader .box a p.c-icon {
+    color: #7d8da8;
+    text-align: center;
+    font-size: 50px;
+}
+section #section-part-3 .sec3-content .sec3-conheader .box a p.c-tit {
+    color: #385b83;
+    text-align: center;
+    font-size: 1.1em;
+    font-weight: 700;
+}
+section #section-part-3 .sec3-content .sec3-conheader .box a p.c-con {
+    color: #7d8da8;
+    text-align: center;
+    font-size: 0.9em;
+    font-weight: bold;
+}
+footer {
+    margin-top: 100px;
 }
